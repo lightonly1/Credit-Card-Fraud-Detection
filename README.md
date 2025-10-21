@@ -19,7 +19,7 @@ The objective is to develop models that can accurately detect fraud while minimi
 - **Transactions:** 284,807  
 - **Fraud Cases:** 492 (0.172%)  
 - **Features:** 30 anonymized variables (V1–V28 obtained through PCA)  
-- **Target:** `Class` — 1 indicates fraud, 0 indicates a valid transaction  
+- **Target:** Class 1 indicates fraud, 0 indicates a valid transaction  
 
 ---
 
